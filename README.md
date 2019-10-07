@@ -1,12 +1,12 @@
-# mL-01-linear-regreassion-single
+# ML-01-linear-regreassion-single
 
 
-IN this project i have created a linear regression model to predict the salary of a given person depending upon their age experiences.
+In this project I have created a linear regression model to predict the salary of a given person depending upon their age experiences.
 I had the option of using scikit learn but i always wanted to do it from scratch.
 
 the first step in any machine learning model is to prepare data. pandas is the library which grants us immense power when it comes to data preprocessing and data divison.
 
-using sample method i have shuffled the data set, iloc method is used to create separate test and train data. 
+using sample method I have shuffled the data set, iloc method is used to create separate test and train data. 
 so i have devided the program in 4 parts one is the pilot part and other are four methods.
 costfun() this is made to calculate the error function j for given t_1,t_0.
 grad1 is function made to calculate the gradient wrt t_1
