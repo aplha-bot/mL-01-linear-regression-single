@@ -20,3 +20,4 @@ as more features and train set increases we will need to adopt mini batching or 
 DO check out this project and try to make your own code 
 
 Chears have a good one
+This is it
